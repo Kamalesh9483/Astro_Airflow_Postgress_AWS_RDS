@@ -10,6 +10,8 @@ The main steps of this ETL pipeline are:
 3. Load: Loads the transformed data into a PostgreSQL database.
 The pipeline runs daily and is built using Airflow's task decorators and hooks to manage API requests and database interactions.
 
+![image](https://github.com/user-attachments/assets/f6b38f12-975e-44ae-afe3-dcd4974d63ad)
+
 
 
 https://github.com/user-attachments/assets/f5f1536f-a954-4e89-a262-816642c8858f
