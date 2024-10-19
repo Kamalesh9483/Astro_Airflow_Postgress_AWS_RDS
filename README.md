@@ -1,5 +1,5 @@
 # Astro_Airflow_Postgress_AWS_RDS
-Random User ETL Pipeline - Airflow DAG & AWS RDS
+Random User ETL Pipeline - Airflow DAG , PostgreSQL & AWS RDS
 This repository contains an ETL (Extract, Transform, Load) pipeline built using Apache Airflow. The pipeline retrieves random user data from the RandomUser API, transforms the data into a desired format, and then loads it into a PostgreSQL database using AWS RDS. The pipeline is implemented as an Airflow Directed Acyclic Graph (DAG), with tasks to extract, transform, and load the data.
 
 Project Overview
